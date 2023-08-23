@@ -2,6 +2,26 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+<<<<<<< HEAD
+=======
+    border: 1px solid black;
+}
+
+.logo {
+    padding: 10px;
+}
+
+.nav-items ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding:10px 10px;
+}
+
+.nav-items> ul> li {
+    margin:20px;
+    font-size: 18px;
+>>>>>>> 8aba00f (Files for Ep-04)
 }
 
 .logo {
