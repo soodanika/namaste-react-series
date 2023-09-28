@@ -23,6 +23,30 @@
     font-size: 18px;
 }
 
+.logout-btn {
+    background-color: #ffd560;
+    border: none;
+    padding: 15px;
+    width: 80px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: medium;
+}
+
+.shimmer-container {
+    margin: 0px 65px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.shimmer-cards {
+    margin:10px;
+    background-color: #f0f0f0;
+    width:350px;
+    height: 400px;
+}
+
 .search {
     padding:50px;
 }
@@ -45,6 +69,7 @@
 .res-card {
     margin:10px;
     background-color: #fbf6e9;
+    width:350px;
 }
 
 .res-card:hover {
